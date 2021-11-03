@@ -1,0 +1,9 @@
+{
+	"ip":"ZyrexNetwork.aternos.me",
+	"port": "19522",
+	"name": "ZyrexBotPenunggu",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register huhuhu ",
+	"login-cmd":"/login huhuhu "
+}
